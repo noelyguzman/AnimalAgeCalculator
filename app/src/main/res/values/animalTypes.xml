@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Updated Array of Animal Types -->
+    <string-array name="animalTypes">
+        <item>Parakeet</item>
+        <item>Rabbit</item>
+        <item>Hamster</item>
+        <item>Dog</item>
+        <item>Goldfish</item>
+        <item>Cat</item>
+    </string-array>
+
+    <!-- Updated Corresponding Life Expectancy Data -->
+    <integer-array name="lifeExpectancy">
+        <item>5</item> <!-- Parakeet -->
+        <item>10</item> <!-- Rabbit -->
+        <item>3</item> <!-- Hamster -->
+        <item>13</item> <!-- Dog, can vary significantly by breed -->
+        <item>5</item> <!-- Goldfish, assuming a common goldfish but can greatly vary -->
+        <item>15</item> <!-- Cat -->
+    </integer-array>
+</resources>
+

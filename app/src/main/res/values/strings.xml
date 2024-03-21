@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AnimalAg</string>
+    <string name="animal_age_calculator">Animal Age Calculator</string>
+    <string name="human_age_of_pet">Human Age of Pet:</string>
+    <string name="choose_your_pet">Choose your pet:</string>
+    <string name="image_of_house_pets_app_can_determine_the_age_of">Image of House Pets App can determine the age of.</string>
+    <string name="your_pet_s_real_age">Your pet\'s real age: %s years</string>
+    <string name="your_pet_s_life_expectancy">Your pet\'s life expectancy: %s years</string>
+    <string name="go">Go!</string>
+    <string name="_0">0</string>
+
+</resources>
